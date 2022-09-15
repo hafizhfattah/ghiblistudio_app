@@ -11,6 +11,7 @@ Future<List<Post>> fetchPost() async {
   if (response.statusCode == 200) {
     final parsed = json.decode(response.body).cast<Map<String, dynamic>>();
 
+    //Mapping To List
     return parsed.map<Post>((json) => Post.fromMap(json)).toList();
   } else {
     throw Exception('Failed to load album');
@@ -37,6 +38,7 @@ class Post {
     required this.locations,
   });
 
+  //Methode Class Model
   factory Post.fromMap(Map<String, dynamic> json) => Post(
         score: json["rt_score"],
         image: json["image"],
