@@ -16,6 +16,7 @@ dependencies:
   google_fonts: ^3.0.1
   card_swiper: ^2.0.4
   url_launcher: ^6.1.5
+  http: ^0.13.5
 ```
 
 ### 🚀 **Getting Started**
