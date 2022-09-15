@@ -1,16 +1,33 @@
-# api_example
+### 📦 **Ghibli StudioUI**
 
-A new Flutter project.
+A Simple Design Of Films From Ghibli Studio
+Made With Flutter
 
-## Getting Started
+### 🎖  **Installing**
+```
+dependencies:
+  flutter:
+    sdk: flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  google_fonts: ^3.0.1
+  card_swiper: ^2.0.4
+  url_launcher: ^6.1.5
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🚀 **Getting Started**
+1. Clone this project || Download Zip from GitHub
+2. Run `flutter pub get` In Terminal
+3. Run the project In Web or Emulator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📷 **Screenshots**
+
+<img
+    src="/assets/image1.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
+ 
