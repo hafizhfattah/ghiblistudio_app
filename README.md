@@ -1,6 +1,6 @@
 ### 📦 **GhibliStudio App**
 
-A Simple Design Of Films From Ghibli Studio with API from Ghibli Studio
+A Simple Design Of Films From Ghibli Studio with API from Ghibli Studio.
 
 ### 🎖  **Installing**
 ```
