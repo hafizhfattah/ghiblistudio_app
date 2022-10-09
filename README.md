@@ -1,7 +1,6 @@
-### 📦 **Ghibli StudioUI**
+### 📦 **GhibliStudio App**
 
-A Simple Design Of Films From Ghibli Studio
-Made With Flutter
+A Simple Design Of Films From Ghibli Studio with API from Ghibli Studio
 
 ### 🎖  **Installing**
 ```
